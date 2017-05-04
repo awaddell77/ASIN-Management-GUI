@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+__pycache__/C_sort.cpython-34.pyc
+*.pyc
+AM Client v0.01a.zip
+asin_error.png
